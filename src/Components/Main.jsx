@@ -26,6 +26,8 @@ function Main({setCartItems}) {
               <Product props ={product1} changeFunction={addToCart}/>
               <br/>
               <Product props ={product2} changeFunction={addToCart}/>
+              <br/>
+              <Product props ={product1} changeFunction={addToCart}/>
             </div>
             <div id ='main_image'>
              <img src="https://static.vecteezy.com/system/resources/previews/044/846/982/non_2x/beautiful-emotional-woman-enjoying-shopping-on-isolated-transparent-background-free-png.png" alt="" />
