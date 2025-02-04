@@ -1,0 +1,30 @@
+#Nav_Files{
+    background-color: rgb(107, 175, 190);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    position:absolute;
+    right: 30px;
+}
+#User_Profile{
+    position: absolute;
+    left: 20px;
+    color: rgb(67, 64, 64);
+}
+.Nav_link{
+    font-size: xx-large;
+    color: white;
+    text-decoration: none;
+    padding-right:50px;
+}
+#User_ProfileStyle{
+    width: 35px;
+    height: 35px;
+    border: 2px black solid;
+    border-radius: 20px;;
+}
+header{
+    position: relative;
+    height: 7vh;
+    background-color: rgb(107, 175, 190);
+}
